@@ -18,4 +18,4 @@ You can view the original design prototype here:
 
 ### 🔗 Java Backend (Spring Boot)
 Since the full backend exceeded GitHub’s size limits, you can download the full code here:  
-[Download from Google Drive][https://drive.google.com/your-shared-link](https://drive.google.com/file/d/1y71jGuUqH_XO8AXDucv2iDsgdDiY15ia/view?usp=drive_link)
+https://drive.google.com/file/d/1y71jGuUqH_XO8AXDucv2iDsgdDiY15ia/view?usp=drive_link
